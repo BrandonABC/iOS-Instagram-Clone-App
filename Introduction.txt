@@ -1,0 +1,2 @@
+Welcome! This is an Instagram Clone app, which is created with Swift and FireBase.
+It supports CRUD operations, user authentications, and more!
